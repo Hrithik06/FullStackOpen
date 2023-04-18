@@ -40,4 +40,3 @@ Note right of browser: When submit button clicked on form it raises a POST reque
 
     Note right of browser: The browser executes the callback function that renders the notes
 ```
-
